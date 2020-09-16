@@ -168,4 +168,3 @@ m.inicio();
 m.teclado();
 
 
-console.log("me falto este mensaje");
